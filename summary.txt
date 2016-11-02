@@ -1,0 +1,81 @@
+Summary for /www/javadecompilers/app/public/data/02.11.16/9297881de822b30138e39649e661f3c8/game.jar
+Decompiled with CFR 0_118
+
+
+q
+----------------------------
+
+a(cZ int int )
+  Unable to fully structure code
+
+
+w
+----------------------------
+
+b(int )
+  Unable to fully structure code
+
+
+aU
+----------------------------
+
+a(az )
+  Unable to fully structure code
+
+
+bt
+----------------------------
+
+a(dj int )
+  Unable to fully structure code
+
+
+bE
+----------------------------
+
+a(t )
+  Unable to fully structure code
+
+
+co
+----------------------------
+
+a(int[] int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[DOLOOP]], but top level block is 24[SIMPLE_IF_TAKEN]
+a(int )
+  Unable to fully structure code
+
+
+cq
+----------------------------
+
+a(db a dp int int )
+  Unable to fully structure code
+
+
+ct
+----------------------------
+
+a(byte )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Statement already marked as first in another block
+
+
+db
+----------------------------
+
+b()
+  Unable to fully structure code
+
+
+dn
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+dp
+----------------------------
+
+a(byte[] int int )
+  Unable to fully structure code
